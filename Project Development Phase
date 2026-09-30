@@ -1,0 +1,8 @@
+Environment setup: development tools, IDEs, version control, build and CI tools.
+Coding: writing source code module by module according to the LLD.
+Code review: peer review, pair programming, and static analysis to catch defects early.
+Unit testing: developers test each module in isolation as they write it.
+Integration: combining modules and checking that interfaces work together.
+Database and API implementation: creating schemas, endpoints, and connections.
+Documentation: code comments, API docs, and developer guides.
+
